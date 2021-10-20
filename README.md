@@ -19,11 +19,7 @@ Sesotho bible fondly called buka ea khale, is a translation of an english bible(
 - v7.apk - Android 7 Nougat
 
 
-<h3 style="color:#ff0000">Danger</h3>
-
-<font color="green"> Some green text </font>
-
 ```diff
 + this text is highlighted in green
-- this text is highlighted in red
+- <h3 style="color:#ff0000">Danger</h3> red
 ```
