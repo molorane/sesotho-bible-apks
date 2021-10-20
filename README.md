@@ -21,6 +21,8 @@ Sesotho bible fondly called buka ea khale, is a translation of an english bible(
 
 ***Note:***
 
+When `magento2ee`
+
 
 ```diff
 - THIS APP IS STILL A WORK IN PROGRESS. YOU WILL EXPERIENCE SOME INCONSISTENCIES WHILE USING IT.
