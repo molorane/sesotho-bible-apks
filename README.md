@@ -18,6 +18,14 @@ Sesotho bible fondly called buka ea khale, is a translation of an english bible(
 
 - v7.apk - Android 7 Nougat
 
-> **WARNING**: THIS APP IS STILL A WORK IN PROGRESS. YOU WILL EXPERIENCE SOME INCONSISTENCIES WHILE USING IT. WHEN THAT HAPPENS, CLOSE THE APP AND OPEN IT AGAIN.
+
+> **WARNING**: This app is still a work in progress. you will experience some inconsistencies while using it. when that happens, close the app and open it again.
+
+
+>[!WARNING]
+>This is a warning
+
+> **⚠ WARNING: Aliens are coming.**  
+> A description of the colour, smell and dangerous behaviour of the aliens.
 
 # Enjoy and God bless you.
