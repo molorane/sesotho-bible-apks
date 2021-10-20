@@ -28,7 +28,7 @@ Sesotho bible fondly called buka ea khale, is a translation of an english bible(
 > **⚠ WARNING: Aliens are coming.**  
 > A description of the colour, smell and dangerous behaviour of the aliens.
 
-| **⚠ WARNING:  This app is still a work in progress. you will experience some inconsistencies while using it. when that happens, close the app and open it again. |
+| ⚠ WARNING:  This app is still a work in progress. you will experience some inconsistencies while using it. when that happens, close the app and open it again. |
 | --- |
 
 # Enjoy and God bless you.
