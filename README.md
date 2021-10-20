@@ -1,4 +1,4 @@
-# sesotho-bible-apks
+# Sesotho Bibble - Buka Ea Khale
 
 
 Magento enables you to build EE from these cloned repositories in any of the following ways:
