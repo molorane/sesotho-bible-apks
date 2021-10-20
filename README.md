@@ -21,5 +21,5 @@ Sesotho bible fondly called buka ea khale, is a translation of an english bible(
 
 ```diff
 + this text is highlighted in green
-- <h3 style="color:#ff0000">Danger</h3> red
+- # Danger red
 ```
