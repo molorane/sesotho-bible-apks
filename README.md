@@ -1,4 +1,4 @@
-### Examples Sesotho Bibble - Buka Ea Khale
+# Sesotho Bibble - Buka Ea Khale
 
 
 Sesotho bible fondly called buka ea khale, is a translation of an english bible(KJV). It is in Sesotho, one of the official languages in South Africa and the most spoken language in Lesotho. This app is FREE and not for sale.
